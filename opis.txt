@@ -1,0 +1,8 @@
+to będzie strona do nauki
+przeykładem jest sklep rowerowy
+w nauce chodzi o to by poćwiczyć między innymi strukturę plików
+a także znaczniki semantyczne html
+style i animacje css
+rozwijane listy, przejścia i animacje w JS
+wreszcie logowanie i inne przydatne rzeczy w php
+przy okazji praca z bazami danych
